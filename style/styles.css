@@ -1,0 +1,57 @@
+/*aqui esta el estilo del div*/
+div{
+    background-color: rgb(243, 228, 141);
+}
+/*aqui esta el estilo de la barra de navegacion*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0 ;
+    overflow: center ;
+    background-color: #ffffe4e1;
+  }
+  
+  li {
+    float: left;
+    font-family: cursive;
+    text-align: center;
+    display: menu;
+  }
+  
+  li a {
+    display: menu;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #fcfac2f8;
+  }
+/*qui esta el estilo del video*/
+ iframe{
+    align-content: center;
+ }
+/*aqui esta el estilo de la tabla*/
+ h1{
+    text-align: center;
+ }
+
+ table, th, td {
+   border:1px solid rgb(255, 255, 255);
+ }
+ 
+ td{
+    text-align: center;
+ }
+/*aqui esta el estilo del footer*/
+ footer{
+    background-color: black;
+    height:300px ;
+    width:2000px ;
+   align-items: end;
+   font-family: cursive;
+  
+ }
+
